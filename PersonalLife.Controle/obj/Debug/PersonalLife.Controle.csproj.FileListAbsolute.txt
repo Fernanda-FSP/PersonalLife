@@ -1,0 +1,42 @@
+C:\Users\Sara Gomes\Desktop\Projeto\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.csprojResolveAssemblyReference.cache
+C:\Users\Sara Gomes\Desktop\Projeto\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.dll.config
+C:\Users\Sara Gomes\Desktop\Projeto\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.dll
+C:\Users\Sara Gomes\Desktop\Projeto\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.pdb
+C:\Users\Sara Gomes\Desktop\Projeto\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.dll
+C:\Users\Sara Gomes\Desktop\Projeto\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.pdb
+C:\Users\TDS02\Desktop\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.dll.config
+C:\Users\TDS02\Desktop\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.dll
+C:\Users\TDS02\Desktop\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.pdb
+C:\Users\TDS02\Desktop\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.csprojResolveAssemblyReference.cache
+C:\Users\TDS02\Desktop\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.dll
+C:\Users\TDS02\Desktop\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.pdb
+C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.dll.config
+C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.dll
+C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.pdb
+C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.csprojResolveAssemblyReference.cache
+C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.dll
+C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.pdb
+C:\Users\Sara Gomes\Desktop\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.dll.config
+C:\Users\Sara Gomes\Desktop\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.dll
+C:\Users\Sara Gomes\Desktop\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.pdb
+C:\Users\Sara Gomes\Desktop\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.csprojResolveAssemblyReference.cache
+C:\Users\Sara Gomes\Desktop\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.dll
+C:\Users\Sara Gomes\Desktop\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.pdb
+C:\Users\TDS02-T\Desktop\PersonalLife(v14)\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.dll.config
+C:\Users\TDS02-T\Desktop\PersonalLife(v14)\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.dll
+C:\Users\TDS02-T\Desktop\PersonalLife(v14)\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.pdb
+C:\Users\TDS02-T\Desktop\PersonalLife(v14)\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.csprojResolveAssemblyReference.cache
+C:\Users\TDS02-T\Desktop\PersonalLife(v14)\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.dll
+C:\Users\TDS02-T\Desktop\PersonalLife(v14)\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.pdb
+C:\Users\Sara Gomes\Desktop\PersonalLife\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.dll.config
+C:\Users\Sara Gomes\Desktop\PersonalLife\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.dll
+C:\Users\Sara Gomes\Desktop\PersonalLife\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.pdb
+C:\Users\Sara Gomes\Desktop\PersonalLife\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.csprojResolveAssemblyReference.cache
+C:\Users\Sara Gomes\Desktop\PersonalLife\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.dll
+C:\Users\Sara Gomes\Desktop\PersonalLife\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.pdb
+C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.dll.config
+C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.dll
+C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife\PersonalLife.Controle\bin\Debug\PersonalLife.Controle.pdb
+C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.csprojResolveAssemblyReference.cache
+C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.dll
+C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife\PersonalLife.Controle\obj\Debug\PersonalLife.Controle.pdb
