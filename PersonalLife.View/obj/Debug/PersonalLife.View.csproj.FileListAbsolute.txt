@@ -137,3 +137,25 @@ C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife\PersonalLife.View\obj\Debug\P
 C:\Users\Aluno\Source\Repos\Fernanda-FSP\PersonalLife\PersonalLife.View\bin\Debug\PersonalLife.View.exe.config
 C:\Users\Aluno\Source\Repos\Fernanda-FSP\PersonalLife\PersonalLife.View\obj\Debug\PersonalLife.View.exe
 C:\Users\Aluno\Source\Repos\Fernanda-FSP\PersonalLife\PersonalLife.View\obj\Debug\PersonalLife.View.pdb
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\bin\Debug\PersonalLife.View.exe.config
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.exe
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.pdb
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\bin\Debug\PersonalLife.View.exe
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\bin\Debug\PersonalLife.View.pdb
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\bin\Debug\PersonalLife.Controle.dll
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\bin\Debug\PersonalLife.Controle.pdb
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.csprojResolveAssemblyReference.cache
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.frmAdm.resources
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.frmCadExercicio.resources
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.frmCadUsuario.resources
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.frmConfirmar.resources
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.frmEsqSenha.resources
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.frmIMC.resources
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.frmListExercicio.resources
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.frmListUsuario.resources
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.frmLogin.resources
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.frmBibliotecaEx.resources
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.frmMeusEx.resources
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.frmPerfilCliente.resources
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.Properties.Resources.resources
+C:\Users\Sara Gomes\Desktop\Nova pasta\PersonalLife.View\obj\Debug\PersonalLife.View.csproj.GenerateResource.Cache

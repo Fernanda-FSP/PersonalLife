@@ -26,8 +26,8 @@ namespace PersonalLife.Controle.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAB606-05\\SQLEXPRESS2;Initial Catalog=DB_PersonalLife;User ID=sa;Pass" +
-            "word=123")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-87A28JB\\SQLEXPRESS;Initial Catalog=DB_PersonalLife;Integrated" +
+            " Security=True")]
         public string banco {
             get {
                 return ((string)(this["banco"]));

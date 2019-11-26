@@ -42,7 +42,7 @@ namespace PersonalLife.Controle
                 return qtd;
             }
         }
-
+        //Método para pesquisar ID
         public Entidade PesquisaId(Entidade objTabela)
         {
             //Criação da string de conexão 
@@ -71,7 +71,6 @@ namespace PersonalLife.Controle
                 return objTabela;
             }
         }
-
         //Método para perfil cliente
         public List<Entidade> PerfilCliente(Entidade objTabela)
         {
@@ -146,7 +145,7 @@ namespace PersonalLife.Controle
                 return Lista;
             }
         }
-
+        //Método para conferir se email já cadastrado
         public int PegaEmail(Entidade objTabela)
         {
             //Criação da string de conexão 
@@ -174,7 +173,6 @@ namespace PersonalLife.Controle
                 return 0;
             }
         }
-
         //Método para salvar datagrid do usuário
         public void ExUsu(Entidade objTabela)
         {
@@ -200,7 +198,6 @@ namespace PersonalLife.Controle
                 cn.ExecuteNonQuery();
             }
         }
-
         //Método usado para atualizar senha esquecida
         public Entidade EsqSenha(Entidade objTabela)
         {

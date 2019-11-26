@@ -1,0 +1,8 @@
+C:\Users\Sara Gomes\Desktop\Nova pasta\Teste\bin\Debug\Teste.dll
+C:\Users\Sara Gomes\Desktop\Nova pasta\Teste\bin\Debug\Teste.pdb
+C:\Users\Sara Gomes\Desktop\Nova pasta\Teste\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Sara Gomes\Desktop\Nova pasta\Teste\bin\Debug\PersonalLife.Controle.dll
+C:\Users\Sara Gomes\Desktop\Nova pasta\Teste\bin\Debug\PersonalLife.Controle.pdb
+C:\Users\Sara Gomes\Desktop\Nova pasta\Teste\obj\Debug\PersonalLife.Teste.csprojResolveAssemblyReference.cache
+C:\Users\Sara Gomes\Desktop\Nova pasta\Teste\obj\Debug\Teste.dll
+C:\Users\Sara Gomes\Desktop\Nova pasta\Teste\obj\Debug\Teste.pdb
