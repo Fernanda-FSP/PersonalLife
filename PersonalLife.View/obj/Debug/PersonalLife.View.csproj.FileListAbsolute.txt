@@ -134,3 +134,6 @@ C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife\PersonalLife.View\obj\Debug\P
 C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife\PersonalLife.View\obj\Debug\PersonalLife.View.Properties.Resources.resources
 C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife\PersonalLife.View\obj\Debug\PersonalLife.View.csproj.GenerateResource.Cache
 C:\Users\TDS02-T\Desktop\PersonalLife\PersonalLife\PersonalLife.View\obj\Debug\PersonalLife.View.frmIMC.resources
+C:\Users\Aluno\Source\Repos\Fernanda-FSP\PersonalLife\PersonalLife.View\bin\Debug\PersonalLife.View.exe.config
+C:\Users\Aluno\Source\Repos\Fernanda-FSP\PersonalLife\PersonalLife.View\obj\Debug\PersonalLife.View.exe
+C:\Users\Aluno\Source\Repos\Fernanda-FSP\PersonalLife\PersonalLife.View\obj\Debug\PersonalLife.View.pdb
