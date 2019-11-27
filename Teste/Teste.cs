@@ -36,7 +36,7 @@ namespace PersonalLife.Teste
             BD cont = new BD();
             Entidade objTabela = new Entidade();
             //Testando método ExistUsu (acerto)
-            objTabela.Usuario = "pedro";
+            objTabela.Usuario = "pero";
             Assert.AreEqual(0, cont.ExistUsu(objTabela));
         }
 
